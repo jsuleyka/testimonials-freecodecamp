@@ -28,4 +28,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This application was created by [Suleyka Juárez](https://www.linkedin.com/in/suleyka-juarez-4812134a/) during the Learn React From Zero course published on the [freeCodeCamp Spanish](https://www.youtube.com/freecodecampespanol) YouTube channel. Its initial structure was created with the `npx create-react-app` command.
 
-<!-- [Site Deployed](https://jsuleyka.github.io/testimonials-freecodecamp/) -->
+[Site Deployed](https://jsuleyka.github.io/testimonials-freecodecamp)
